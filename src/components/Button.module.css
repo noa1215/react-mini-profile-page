@@ -1,0 +1,22 @@
+.button {
+  padding: 8px 16px;
+  border: 0;
+  border-radius: 6px;
+  background: #6670a1;
+  color: #fff;
+  font: inherit;
+  cursor: pointer;
+}
+.button.friend{
+background-color: aquamarine;
+}
+
+.button.teacher{
+background-color: rgb(101, 125, 190);
+}
+.button.student{
+background-color: #c281d1;
+}
+.button:hover {
+  background: #685bac;
+}
